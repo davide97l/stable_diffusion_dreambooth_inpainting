@@ -1,1 +1,1 @@
-# stable_diffusion_dreambooth_inpainting
+# Stable Diffusion Dreambooth Inpainting
