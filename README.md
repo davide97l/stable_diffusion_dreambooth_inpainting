@@ -22,3 +22,7 @@ Stable Diffusion inpainting example for e-commerce below:
 
 ![ecommerce_necklace](images/results/ecommerce1.png)
 ![ecommerce_necklace](images/results/ecommerce2.png)
+
+Stable Diffusion XL inpainting example for e-commerce below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davide97l/stable_diffusion_dreambooth_inpainting/blob/main/sdxl_dreambooth_lora_inpaint.ipynb)
